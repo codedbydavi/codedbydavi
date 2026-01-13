@@ -53,12 +53,48 @@ const davi = {
 
 ---
 
-### 🚀 Featured Projects
+<h3 align="left">🚀 Projetos em Destaque</h3>
 
-| Project | Stack | Description |
-| :--- | :--- | :--- |
-| **🌐 [MEDCEI Epidemic](https://medcei.example.com)** | ![Flask](https://img.shields.io/badge/-Flask-000?logo=flask) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) | A simulator for SIR/SIRD models with interactive dashboards for population dynamics. **Complex Logic Inside!** |
-| **📱 [Kora App](https://kora.example.com)** | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter) ![Firebase](https://img.shields.io/badge/-React-FFCA28?logo=firebase&logoColor=black) | Cross-platform productivity booster. Because we all need a little push to get things done. |
+<table width="100%">
+  <thead>
+    <tr align="left">
+      <th width="30%">Projeto</th>
+      <th width="30%">Stack Tecnológica</th>
+      <th width="40%">Descrição</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://medcei.example.com">
+          <strong>🌐 MEDCEI </strong>
+        </a>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Flask-000?style=for-the-badge&logo=flask" alt="Flask">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" alt="React">
+      </td>
+      <td>
+        Simulador de modelos epidemiológicos <b>SIR/SIRD</b> com dashboards interativos para análise de dinâmicas populacionais.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://infos.pt/en/kora/">
+          <strong>📱 Kora</strong>
+        </a>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" alt="React">
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+      </td>
+      <td>
+        Ecossistema multiplataforma de produtividade. Focado em otimização de fluxo de trabalho e gestão inteligente de tarefas.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
